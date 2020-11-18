@@ -13,3 +13,8 @@ Hello, Ash Ketchum
 '''
 
 #start writing your code below
+string1 = (input("What is your first name?: "))
+string2 = (input("What is your last name?: "))
+space = " "
+
+print("Hello,", (string1)+" "+(string2))
